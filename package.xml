@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>nrs_admittance_control_pkg</name>
+  <version>0.0.1</version>
+  <description>Simple 1D Admittance Control ROS Package</description>
+
+  <maintainer email="your_email@example.com">Yonoo Kim</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <exec_depend>roscpp</exec_depend>
+
+</package>
