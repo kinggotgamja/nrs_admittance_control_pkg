@@ -12,4 +12,4 @@ However, the following conditions must be met:
 - No other license restrictions are applied.
 
 ## How to use
-- Please refer the src/main.cpp
+- Please refer the src/admittance_node.cpp
